@@ -182,7 +182,7 @@ AMCの実習室の全てのiMacにもTouchDesignerがインストールされて
 
 簡単に二次元から四次元のノイズを生成することのできるNoise TOPを使用して、試行錯誤しながら自分なりの「作品」をつくってみる。プログラムの原型は以下からダウンロードしてください。
 
-- [ノイズのサンプル](./toe/01-01SimpleNoise.toe)
+- [ノイズのサンプル](https://github.com/tado/td-workshop/blob/main/geidai-mediaart/toe/01-01SimpleNoise.toe)
 
 まだ操作の基本を習得した段階ですが、まずはいろいろ試行錯誤しながら操作の基本感覚を身に付けていきましょう。その上で以下のような工夫をしてみてください。
 
