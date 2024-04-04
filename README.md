@@ -5,4 +5,4 @@
 
 東京藝術大学芸術情報センター (AMC)
 
-- [TouchDesigner 初めの一歩 – インストールと操作の基本](./docs/geidai-mediaart/01_introduction.md)
+- [TouchDesigner 初めの一歩 – インストールと操作の基本](./geidai-mediaart/01_introduction.md)
